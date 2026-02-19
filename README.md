@@ -1,7 +1,7 @@
 # Go Dev – Programming Environment
 
 <p align="center">
-  <img src="https://go.dev/images/gophers/ladder.svg" width="200" alt="Go Dev icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/960px-Go_Logo_Blue.svg.png" width="200" alt="Go Dev icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*6eN3xqyjaWDEkL0BdpJ2Lw.png" alt="Go Dev screenshot"/>
+  <img src="https://filecr.com/_next/image/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2023%2F12%2Fgo-dev%2F6571977b25baf-go-dev-screenshot1.webp&w=1920&q=75" alt="Go Dev screenshot"/>
 </p>
 
 ---
